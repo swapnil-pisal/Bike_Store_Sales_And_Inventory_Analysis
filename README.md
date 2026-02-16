@@ -15,16 +15,16 @@
 - Low Stock Alert – Products with zero quantity in stock. 
 
 ## Core Concepts Covered: 
-● INNER JOIN across multiple tables 
-● GROUP BY and aggregate functions (SUM, COUNT) 
-● ORDER BY for readable reporting 
-● Relational integrity understanding
+- INNER JOIN across multiple tables 
+- GROUP BY and aggregate functions (SUM, COUNT) 
+- ORDER BY for readable reporting 
+- Relational integrity understanding
 
 ## Strengths: 
-● Excellent focus on core SQL (JOINs + Aggregations). 
-● Real-world business scenarios (Retail + Hospitality). 
-● Proper reporting mindset with ORDER BY and aliases. 
-● Good balance between difficulty and clarity.
+- Excellent focus on core SQL (JOINs + Aggregations). 
+- Real-world business scenarios (Retail + Hospitality). 
+- Proper reporting mindset with ORDER BY and aliases. 
+- Good balance between difficulty and clarity.
 
 ## Tool Used:
 - Mysqlworkbench
